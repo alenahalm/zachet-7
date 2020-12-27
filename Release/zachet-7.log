@@ -1,0 +1,9 @@
+﻿  zachet-7.cpp
+C:\Users\User\Desktop\HW\Programming\zachet\zachet-7\zachet-7\zachet-7.cpp(8,2): warning C4305: инициализация: усечение из "__int64" в "long"
+C:\Users\User\Desktop\HW\Programming\zachet\zachet-7\zachet-7\zachet-7.cpp(8,16): warning C4309: инициализация: усечение константного значения
+  Создание кода
+  1 of 2 functions (50.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  zachet-7.vcxproj -> C:\Users\User\Desktop\HW\Programming\zachet\zachet-7\Release\zachet-7.exe
